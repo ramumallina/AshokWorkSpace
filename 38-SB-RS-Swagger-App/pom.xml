@@ -12,6 +12,7 @@
 	<groupId>in.ashokit</groupId>
 	<artifactId>38-SB-RS-Swagger-App</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>38-SB-RS-Swagger-App</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
